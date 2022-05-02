@@ -5,4 +5,9 @@
     <string name="hint_1">Enter first number</string>
     <string name="hint_2">Enter second number</string>
     <string name="sum">Sum of numbers</string>
+    <string name="text">Text should be replaced</string>
+    <string name="ClickedText">Already clicked</string>
+    <string name="firstButton">alpha</string>
+    <string name="secondButton">Betta</string>
+    <string name="thirdButton">Tetta</string>
 </resources>
