@@ -10,4 +10,6 @@
     <string name="firstButton">alpha</string>
     <string name="secondButton">Betta</string>
     <string name="thirdButton">Tetta</string>
+    <string name="GoToSecondPage">Go to the next page</string>
+    <string name="backToFirstPage">Go back</string>
 </resources>
