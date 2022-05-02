@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ItProgerCourse</string>
+    <string name="button">Click on me!</string>
+    <string name="logo">Sum of two numbers</string>
+    <string name="hint_1">Enter first number</string>
+    <string name="hint_2">Enter second number</string>
+    <string name="sum">Sum of numbers</string>
+</resources>
