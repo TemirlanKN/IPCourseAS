@@ -16,4 +16,10 @@
     <string name="click_on_me">Click on me</string>
     <string name="fragment_1">Fragment 1</string>
     <string name="fragment_2">Fragment 2</string>
+    <string name="main">Main</string>
+    <string name="contacts">Contacts</string>
+    <string name="blog">Blog</string>
+    <string name="log_in">Log in</string>
+    <string name="whats_up">Whats up?</string>
+    <string name="hi_there">Hi there!</string>
 </resources>
